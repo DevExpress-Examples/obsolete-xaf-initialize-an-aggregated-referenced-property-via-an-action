@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [InstantiateAggregatedPropertiesViewController.cs](./CS/WinWebSolution.Module/InstantiateAggregatedPropertiesViewController.cs) (VB: [InstantiateAggregatedPropertiesViewController.vb](./VB/WinWebSolution.Module/InstantiateAggregatedPropertiesViewController.vb))
+* [TestAggregatedPropertiesObject.cs](./CS/WinWebSolution.Module/TestAggregatedPropertiesObject.cs) (VB: [TestAggregatedPropertiesObject.vb](./VB/WinWebSolution.Module/TestAggregatedPropertiesObject.vb))
+<!-- default file list end -->
 # OBSOLETE - How to initialize an aggregated referenced property via an Action.
 
 
