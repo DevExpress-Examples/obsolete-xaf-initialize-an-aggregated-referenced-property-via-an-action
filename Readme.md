@@ -3,17 +3,9 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1284)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [InstantiateAggregatedPropertiesViewController.cs](./CS/WinWebSolution.Module/InstantiateAggregatedPropertiesViewController.cs) (VB: [InstantiateAggregatedPropertiesViewController.vb](./VB/WinWebSolution.Module/InstantiateAggregatedPropertiesViewController.vb))
-* [TestAggregatedPropertiesObject.cs](./CS/WinWebSolution.Module/TestAggregatedPropertiesObject.cs) (VB: [TestAggregatedPropertiesObject.vb](./VB/WinWebSolution.Module/TestAggregatedPropertiesObject.vb))
-<!-- default file list end -->
 # OBSOLETE - How to initialize an aggregated referenced property via an Action.
 
-
-<p><strong>======================</strong><br /><strong>This article is now obsolete. Refer to the following help topics instead:</strong><br /><strong><a href="https://documentation.devexpress.com/#Xaf/CustomDocument3572">Reference Properties</a> </strong><br /><strong><a href="https://documentation.devexpress.com/#Xaf/CustomDocument3258">How to: Initialize Business Objects with Default Property Values</a> </strong><br /><strong><a href="https://documentation.devexpress.com/#XPO/CustomDocument2048">How to: Create an Aggregated Object</a></strong><br /><strong>======================</strong></p>
-
-<br/>
-
-
+This article is now obsolete. Refer to the following help topics instead:
+- [Reference (Foreign Key, Complex Type) Properties](https://docs.devexpress.com/eXpressAppFramework/113572/business-model-design-orm/data-types-supported-by-built-in-editors/reference-foreign-key-complex-type-properties)
+- [How to: Initialize Business Objects with Default Property Values in XPO](https://docs.devexpress.com/eXpressAppFramework/113258/business-model-design-orm/business-model-design-with-xpo/how-to-initialize-business-objects-with-default-property-values-in-xpo)
+- [How to: Create an Aggregated Object](https://docs.devexpress.com/XPO/2048/examples/how-to-create-an-aggregated-object)
